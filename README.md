@@ -1,4 +1,4 @@
-# Chinook Database MCP Project
+# chinook-crud-api-mcp
 
 This project consists of two main components:
 
