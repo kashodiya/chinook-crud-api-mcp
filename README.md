@@ -1,0 +1,1 @@
+# chinook-crud-api-mcp
